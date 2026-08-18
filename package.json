@@ -1,0 +1,9 @@
+{
+  "name": "payment-demo",
+  "version": "1.0.0",
+  "description": "Minimal Stripe Checkout (test mode) demo, deployable on Vercel",
+  "main": "index.js",
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
